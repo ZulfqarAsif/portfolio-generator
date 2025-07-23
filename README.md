@@ -145,3 +145,6 @@ I love it when my work helps someone. So if you're using this project or it insp
 #### Host your portfolio free using github pages :
 
 I host my portfolio using github pages. To use the framework to make your site, you just need to change resume.json and update the `RESUME_LOCATION` in `constants.js` and you're good to go.
+
+
+# Me Zulfqar is not changing anything in this repository and i am doing it just to show my contribution on GitHub
